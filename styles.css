@@ -1,0 +1,15 @@
+.equella-dnd {
+    width: 95%;
+    height: 200px;
+    margin: 0 auto;
+    border: 2px solid #DDD;
+    background:url([[pix:theme|fp/dnd_arrow]]) center no-repeat;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    background-color: #FEFFEC;
+    text-align: center;
+    color: #BBB;
+}
+.equella-result {
+    text-align: center;
+}
